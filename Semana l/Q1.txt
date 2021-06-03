@@ -1,0 +1,12 @@
+3.(Questionário) Critérios de avaliação da Linguagem
+
+Considere o seguinte trecho de código:
+
+// Trecho 1 :
+a = &b ; // operador de endereço
+a = b & c // & operador AND bit a bit
+
+Marque as sentenças corretas.
+
+R: A sobrecarga de operadores impacta a capacidade de escrita da LP.
+R: A simplicidade global da LP é prejudicada por causa da sobrecarga de operadores.
