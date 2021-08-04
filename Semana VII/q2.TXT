@@ -1,0 +1,5 @@
+Analisador Descendente Recursivo
+
+Quando analisamos a seguinte string (()))$. O analisador acima, dará qual informação?
+
+R: Erro sintático nao terminal B
